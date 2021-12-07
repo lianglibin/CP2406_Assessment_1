@@ -1,2 +1,2 @@
 # Traffic-Simulator-1.0
-A console based simulation of traffic.
+Repository for CP2406 Assignment 1 Car Simulator R

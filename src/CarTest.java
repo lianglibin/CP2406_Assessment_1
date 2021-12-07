@@ -5,7 +5,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class CarTest {
     Road road = new Road("0", 1, 5, new int[]{0, 0});
     Car car = new Car("0", road);
-
     @Test
     void testMove() {
         car.move();

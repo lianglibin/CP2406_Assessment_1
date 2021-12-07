@@ -1,5 +1,4 @@
 import java.util.Random;
-
 public class TrafficLight {
     private static final double CHANGE_GREEN = 0.5; // 50/50 chance of changing state.
     private static final String GREEN = "green";

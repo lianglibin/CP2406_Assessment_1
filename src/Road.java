@@ -23,7 +23,6 @@ public class Road {
 //            carsOnRoad.add(new Car(Integer.toString(i), this));
 //    }
 
-
     public String getId() {
         return id;
     }

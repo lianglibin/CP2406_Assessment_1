@@ -9,7 +9,6 @@ public class Car {
     private int position; // position on current road
     private Road currentRoad; // current Road object
 
-
     public Car(String id, Road currentRoad) {
         this.id = "car_" + id;
         this.currentRoad = currentRoad;
