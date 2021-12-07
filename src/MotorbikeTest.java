@@ -2,6 +2,7 @@ import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+
 class MotorbikeTest {
     Motorbike bike = new Motorbike("0");
 

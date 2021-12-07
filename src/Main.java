@@ -21,6 +21,7 @@ public class Main {
         int lightSpawns = 1;
 
 
+
         //Create objects:
         System.out.println("Object Creation:\n---------------------");
         System.out.println("Roads:");

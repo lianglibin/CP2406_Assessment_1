@@ -9,6 +9,7 @@ user. This version of the program will be able to simulate a single car moving a
 a traffic light, move to a second road connected to the first, representing a very basic intersection, and move to the 
 end of that road.
 
+
 ### Decomposition
 The problem can be broken into operate objects that interact with each other to achieve the desired behaviour. 
 These objects include;
